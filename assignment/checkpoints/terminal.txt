@@ -9,7 +9,7 @@ cd ..
 # 4 - What is a quick way to create a new folder?
 mkdir
 # 5 - What output would you expect when you run the command 'ls' in an empty folder? What about a folder containing files?
-no files would display dnd it would show nothing. If there were files, it would list them in rows and columns all the different visible file types.
+It would display nothing, no files to display. If there were files, it would list them in rows and columns all the different visible file types.
 # 6 - What is a quick way to create a new file?
 touch
 # 7 - Run 'git --version' in your terminal. What is the output?
